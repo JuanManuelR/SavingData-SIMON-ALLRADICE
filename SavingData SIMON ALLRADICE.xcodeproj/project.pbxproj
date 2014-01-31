@@ -460,6 +460,7 @@
 				4BA8926C1894180B00F889E3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4BA8926D1894180B00F889E3 /* Build configuration list for PBXNativeTarget "SavingData SIMON ALLRADICETests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +469,7 @@
 				4BA8926F1894180B00F889E3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -10,4 +10,14 @@
 
 @interface ViewController : UIViewController
 
+@property (nonatomic, weak) IBOutlet UITextField *myTextField;
+@property (nonatomic, weak) IBOutlet UIDatePicker *myDatePicker;
+
+-(IBAction)dismissKeyboard:(id)sender;
+
+-(NSString *)getFilePath;
+-(void)saveData;
+-(void)loadData;
+
 @end
+
